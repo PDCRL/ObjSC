@@ -1,0 +1,6 @@
+*.a
+*.o
+*.so
+*.ko
+*.exe
+.vscode
