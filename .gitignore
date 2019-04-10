@@ -4,3 +4,4 @@
 *.ko
 *.exe
 .vscode
+a.out
