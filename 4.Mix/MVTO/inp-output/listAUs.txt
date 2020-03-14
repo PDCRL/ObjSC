@@ -1,0 +1,150 @@
+1 send 165 166 0
+2 send 165 167 0
+3 send 136 118 823
+4 vote 133 10
+5 get_bal 6
+6 auction_end
+7 get_bal 136
+8 auction_end
+9 get_bal 70
+10 bid 64 28 376
+11 vote 49 7
+12 send 115 32 810
+13 vote 124 25
+14 send 114 125 101
+15 vote 13 19
+16 send 71 139 913
+17 auction_end
+18 get_bal 122
+19 vote 81 31
+20 bid 360 54 487
+21 get_bal 139
+22 auction_end
+23 withdraw 89
+24 bid 74 152 779
+25 vote 104 11
+26 bid 398 51 567
+27 get_bal 51
+28 vote 50 20
+29 bid 373 104 295
+30 get_bal 1
+31 withdraw 59
+32 withdraw 93
+33 get_bal 100
+34 vote 31 19
+35 get_bal 58
+36 auction_end
+37 get_bal 88
+38 auction_end
+39 get_bal 154
+40 get_bal 156
+41 withdraw 44
+42 get_bal 98
+43 get_bal 5
+44 vote 67 30
+45 vote 45 5
+46 auction_end
+47 withdraw 161
+48 get_bal 104
+49 auction_end
+50 get_bal 86
+51 auction_end
+52 vote 103 7
+53 auction_end
+54 get_bal 78
+55 auction_end
+56 auction_end
+57 vote 86 19
+58 get_bal 59
+59 vote 79 14
+60 get_bal 126
+61 auction_end
+62 get_bal 78
+63 auction_end
+64 auction_end
+65 get_bal 47
+66 get_bal 157
+67 get_bal 5
+68 auction_end
+69 get_bal 119
+70 auction_end
+71 get_bal 67
+72 vote 7 28
+73 get_bal 39
+74 get_bal 149
+75 vote 115 19
+76 auction_end
+77 vote 130 17
+78 get_bal 62
+79 auction_end
+80 get_bal 66
+81 vote 124 9
+82 auction_end
+83 vote 43 28
+84 vote 77 22
+85 auction_end
+86 get_bal 69
+87 get_bal 15
+88 vote 86 29
+89 auction_end
+90 get_bal 131
+91 vote 124 5
+92 get_bal 138
+93 vote 22 9
+94 vote 110 31
+95 get_bal 118
+96 vote 104 19
+97 auction_end
+98 get_bal 113
+99 vote 130 30
+100 get_bal 1
+101 get_bal 130
+102 vote 128 10
+103 get_bal 45
+104 get_bal 32
+105 vote 111 7
+106 get_bal 6
+107 get_bal 22
+108 auction_end
+109 get_bal 116
+110 vote 16 6
+111 get_bal 162
+112 auction_end
+113 get_bal 66
+114 get_bal 123
+115 vote 106 8
+116 auction_end
+117 get_bal 93
+118 vote 67 24
+119 auction_end
+120 vote 83 10
+121 vote 128 19
+122 auction_end
+123 vote 103 28
+124 vote 44 32
+125 auction_end
+126 vote 56 29
+127 vote 66 23
+128 vote 128 23
+129 auction_end
+130 vote 129 17
+131 auction_end
+132 auction_end
+133 auction_end
+134 vote 124 20
+135 auction_end
+136 vote 77 22
+137 auction_end
+138 auction_end
+139 auction_end
+140 auction_end
+141 vote 76 32
+142 auction_end
+143 vote 13 18
+144 vote 102 15
+145 vote 26 16
+146 vote 102 14
+147 auction_end
+148 vote 86 9
+149 vote 48 23
+150 vote 47 4

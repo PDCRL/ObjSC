@@ -1,0 +1,150 @@
+1 send 5165 5166 0
+2 send 5165 5167 0
+3 send 5136 5118 823
+4 vote 10133 -10
+5 get_bal 5006
+6 auction_end
+7 get_bal 5136
+8 auction_end
+9 get_bal 5070
+10 bid 64 28 376
+11 vote 10049 -7
+12 send 5115 5032 810
+13 vote 10124 -25
+14 send 5114 5125 101
+15 vote 10013 -19
+16 send 5071 5139 913
+17 auction_end
+18 get_bal 5122
+19 vote 10081 -31
+20 bid 360 54 487
+21 get_bal 5139
+22 auction_end
+23 withdraw 89
+24 bid 74 152 779
+25 vote 10104 -11
+26 bid 398 51 567
+27 get_bal 5051
+28 vote 10050 -20
+29 bid 373 104 295
+30 get_bal 5001
+31 withdraw 59
+32 withdraw 93
+33 get_bal 5100
+34 vote 10031 -19
+35 get_bal 5058
+36 auction_end
+37 get_bal 5088
+38 auction_end
+39 get_bal 5154
+40 get_bal 5156
+41 withdraw 44
+42 get_bal 5098
+43 get_bal 5005
+44 vote 10067 -30
+45 vote 10045 -5
+46 auction_end
+47 withdraw 161
+48 get_bal 5104
+49 auction_end
+50 get_bal 5086
+51 auction_end
+52 vote 10103 -7
+53 auction_end
+54 get_bal 5078
+55 auction_end
+56 auction_end
+57 vote 10086 -19
+58 get_bal 5059
+59 vote 10079 -14
+60 get_bal 5126
+61 auction_end
+62 get_bal 5078
+63 auction_end
+64 auction_end
+65 get_bal 5047
+66 get_bal 5157
+67 get_bal 5005
+68 auction_end
+69 get_bal 5119
+70 auction_end
+71 get_bal 5067
+72 vote 10007 -28
+73 get_bal 5039
+74 get_bal 5149
+75 vote 10115 -19
+76 auction_end
+77 vote 10130 -17
+78 get_bal 5062
+79 auction_end
+80 get_bal 5066
+81 vote 10124 -9
+82 auction_end
+83 vote 10043 -28
+84 vote 10077 -22
+85 auction_end
+86 get_bal 5069
+87 get_bal 5015
+88 vote 10086 -29
+89 auction_end
+90 get_bal 5131
+91 vote 10124 -5
+92 get_bal 5138
+93 vote 10022 -9
+94 vote 10110 -31
+95 get_bal 5118
+96 vote 10104 -19
+97 auction_end
+98 get_bal 5113
+99 vote 10130 -30
+100 get_bal 5001
+101 get_bal 5130
+102 vote 10128 -10
+103 get_bal 5045
+104 get_bal 5032
+105 vote 10111 -7
+106 get_bal 5006
+107 get_bal 5022
+108 auction_end
+109 get_bal 5116
+110 vote 10016 -6
+111 get_bal 5162
+112 auction_end
+113 get_bal 5066
+114 get_bal 5123
+115 vote 10106 -8
+116 auction_end
+117 get_bal 5093
+118 vote 10067 -24
+119 auction_end
+120 vote 10083 -10
+121 vote 10128 -19
+122 auction_end
+123 vote 10103 -28
+124 vote 10044 -32
+125 auction_end
+126 vote 10056 -29
+127 vote 10066 -23
+128 vote 10128 -23
+129 auction_end
+130 vote 10129 -17
+131 auction_end
+132 auction_end
+133 auction_end
+134 vote 10124 -20
+135 auction_end
+136 vote 10077 -22
+137 auction_end
+138 auction_end
+139 auction_end
+140 auction_end
+141 vote 10076 -32
+142 auction_end
+143 vote 10013 -18
+144 vote 10102 -15
+145 vote 10026 -16
+146 vote 10102 -14
+147 auction_end
+148 vote 10086 -9
+149 vote 10048 -23
+150 vote 10047 -4

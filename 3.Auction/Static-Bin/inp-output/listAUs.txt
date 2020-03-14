@@ -1,0 +1,100 @@
+1 bid 124 599 0
+2 bid 124 600 0
+3 withdraw 519
+4 withdraw 387
+5 bid 156 402 150
+6 bid 917 571 999
+7 auction_end
+8 bid 457 492 465
+9 withdraw 570
+10 withdraw 266
+11 withdraw 530
+12 bid 92 70 130
+13 auction_end
+14 auction_end
+15 withdraw 395
+16 auction_end
+17 bid 959 95 582
+18 withdraw 506
+19 withdraw 229
+20 auction_end
+21 withdraw 326
+22 auction_end
+23 auction_end
+24 auction_end
+25 auction_end
+26 withdraw 594
+27 withdraw 371
+28 auction_end
+29 withdraw 177
+30 auction_end
+31 auction_end
+32 auction_end
+33 bid 29 187 632
+34 auction_end
+35 bid 882 583 379
+36 bid 817 415 934
+37 auction_end
+38 bid 663 220 630
+39 withdraw 509
+40 bid 252 211 408
+41 auction_end
+42 auction_end
+43 auction_end
+44 withdraw 509
+45 withdraw 78
+46 auction_end
+47 bid 733 29 221
+48 withdraw 67
+49 withdraw 383
+50 withdraw 89
+51 withdraw 215
+52 bid 163 158 710
+53 withdraw 197
+54 bid 729 354 726
+55 bid 624 581 16
+56 bid 102 557 695
+57 bid 803 550 929
+58 bid 885 506 827
+59 auction_end
+60 bid 831 344 758
+61 auction_end
+62 auction_end
+63 auction_end
+64 auction_end
+65 auction_end
+66 auction_end
+67 auction_end
+68 auction_end
+69 auction_end
+70 auction_end
+71 auction_end
+72 auction_end
+73 auction_end
+74 auction_end
+75 auction_end
+76 auction_end
+77 auction_end
+78 auction_end
+79 auction_end
+80 auction_end
+81 auction_end
+82 auction_end
+83 auction_end
+84 auction_end
+85 auction_end
+86 auction_end
+87 auction_end
+88 auction_end
+89 auction_end
+90 auction_end
+91 auction_end
+92 auction_end
+93 auction_end
+94 auction_end
+95 auction_end
+96 auction_end
+97 auction_end
+98 auction_end
+99 auction_end
+100 auction_end
